@@ -1,0 +1,19 @@
+img{
+border-top-left-radius: 50% 50%;
+border-top-right-radius: 50% 50%;
+border-bottom-right-radius: 50% 50%;
+border-bottom-left-radius: 50% 50%;
+}
+
+body {
+  background-color: powderblue;
+}
+
+hr {
+  border-color: lightgrey;
+  border-width: thick;
+  border-style: none;
+  border-top-style: dotted;
+  height: 3px;
+  width: 3%;
+}
